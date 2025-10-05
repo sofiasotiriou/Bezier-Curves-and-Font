@@ -1,5 +1,5 @@
 # Bezier-Curves-and-Font
-Created by: Sofia Sotiriou and Antonella Mele 
+Created by: Sofia Sotiriou and Antonella Mele <br>
 Done during Advanced Programming and Project at the École nationale supérieure d'informatique pour l'industrie et l'entreprise
 
 ## Description 
